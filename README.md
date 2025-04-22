@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/4711e8c6-3b80-4713-9647-4a73a51ac35f)
+
+
 # NUM-PUZZLE-PYTHON-WITH-TURTLE
 “”” módulo random: Se utiliza para mezclar los números del rompecabezas antes de colocarlos en las casillas.
 time: Se utiliza para medir el tiempo transcurrido durante el juego.
